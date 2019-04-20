@@ -1,0 +1,181 @@
+﻿OBJECTID,NAME,TYPE,LCI_NAME,LCI_YEAR,Major_Act_,last_edited_date,GlobalID
+1,Oakland City,Station Community,Not an LCI Center,N/A,,,{F69E9B7C-A8A8-4286-8676-22E91B2B7D7E}
+2,Lindbergh Center,Station Community,Not an LCI Center,N/A,,,{FCD0B720-E21D-4E81-8030-DBD35CEF5D3B}
+3,Edgewood-Candler Park,Station Community,Not an LCI Center,N/A,,,{38B9893E-35F0-4022-AA67-0200B0FBE1D4}
+4,East Lake,Station Community,Not an LCI Center,N/A,,,{B30E3266-637B-4FCA-8C4B-BCD96A6803E9}
+5,Ashby,Station Community,Not an LCI Center,N/A,,,{54A13F7E-0F8C-4281-91FB-B028BB844864}
+6,West Lake,Station Community,Not an LCI Center,N/A,,,{ADD3A18F-A62C-4A9C-8F7F-54AFA09BDDFE}
+7,Haralson,Town Center,Not an LCI Center,N/A,,,{A2A67E5B-3922-495C-BA78-1DF1A3CBCE3F}
+8,Grantville,Town Center,Not an LCI Center,N/A,,,{005D6209-05D2-40BC-A44C-8B939D0A9BA8}
+9,Moreland,Town Center,Not an LCI Center,N/A,,,{B2C9E6D5-03FD-49FB-9B09-FDC36A752817}
+10,Brooks,Town Center,Not an LCI Center,N/A,,,{1F60E845-4697-48A1-BE43-C8E153A09C23}
+11,Senoia,Town Center,Not an LCI Center,N/A,,,{2608E945-0EE6-4CAD-AED4-9F7F0692D9FE}
+12,Turin,Town Center,Not an LCI Center,N/A,,,{5D2916A4-8D59-4A26-9944-C680CF5BFD77}
+13,Sharpsburg,Town Center,Not an LCI Center,N/A,,,{11ABBFAC-46A4-4562-8DF1-7DDFD0C3201F}
+14,Locust Grove,Town Center,Not an LCI Center,N/A,,,{439C40F7-B0C1-4EF4-BED8-3B79EB86B507}
+15,Woolsey,Town Center,Not an LCI Center,N/A,,,{6AD06C6D-942F-4816-80BC-6FBEAD36ECBA}
+16,Newnan,Town Center,Not an LCI Center,N/A,,,{C88D6AFD-F8C8-424B-A47B-11393ADA3923}
+17,Hampton,Town Center,Not an LCI Center,N/A,,,{77F67177-025F-422A-A1AB-3E960F7D1A71}
+18,Peachtree City,Town Center,Peachtree City,2000,,,{2A8574B8-CB6B-497A-87B8-061BE1C8C1A4}
+19,Newnan Crossing,Regional Center,Not an LCI Center,N/A,,,{28F21132-6AFE-4724-BFFC-EBB183BBAEF1}
+20,Lovejoy,Town Center,Not an LCI Center,N/A,,,{9C6769CE-4099-4610-8F87-59D48FDFE3D5}
+21,McDonough,Town Center,McDonough,2004,,,{0F9977C4-858F-4BAD-AE04-805D421EE0FF}
+22,Fayetteville,Town Center,Fayetteville,2002,,,{7432AE94-45AC-4B04-ABDC-12D2032F44EA}
+23,Tyrone,Town Center,Not an LCI Center,N/A,,,{F3D5BA57-7C4E-4CF9-BDAA-2F7211373330}
+24,Fayetteville Pavilion,Regional Center,Not an LCI Center,N/A,,,{39C70A50-CAD1-46EE-A960-C049EEA8278B}
+25,Palmetto,Town Center,Not an LCI Center,N/A,,,{9E64D700-E6CE-4677-A8F1-78ECFCFADB4E}
+26,Jonesboro,Town Center,Jonesboro,2003,,,{DCC89BF8-F464-4CCD-86A6-12660FBC0BC0}
+27,Stockbridge,Town Center,Stockbridge,2000,,,{DE35780E-FE33-4833-AF63-9684123792D3}
+28,Fairburn,Town Center,Not an LCI Center,N/A,,,{A6BF4276-6DCD-4CB1-95F6-7D63B762495C}
+29,Riverdale,Town Center,Not an LCI Center,N/A,,,{777F5108-73C9-491F-9871-324E1C1B2271}
+30,Southlake,Regional Center,Not an LCI Center,N/A,,,{F4D0E68F-BE6D-429E-89D1-0D96BC30F285}
+31,Chattahochee Hill Country,Regional Center,ChattHill Country West Village,2003,,,{F4B6BF5B-05D5-4E8D-BD7C-52C90BF4AD7A}
+32,Union City,Town Center,Union City,2003,,,{27AE8884-3BC0-4864-A535-7F12D36051CA}
+33,Morrow,Town Center,Not an LCI Center,N/A,,,{B07F0A5F-2CC5-4200-9BAA-1118F4A6C87A}
+34,Morrow LCI,Town Center,Morrow,2000,,,{5E5D4E08-AD94-4BFF-8CD9-164B83AE4BF4}
+35,Lake City,Town Center,Not an LCI Center,N/A,,,{8CA83052-7626-4A67-A954-2E683E506202}
+36,Northwest Clayton,Regional Center,Northwest Clayton,2004,,,{A9C1C6CE-2843-4731-852C-0A42B3BC77E8}
+37,Forest Park,Town Center,Forest Park,2001,,,{D4BEAB44-357C-4A80-B961-84B31E51495D}
+38,Old National,Regional Center,Old National,2003,,,{81CEB241-5805-434B-AA8E-2200405CC7E4}
+39,College Park,Town Center,Not an LCI Center,N/A,,,{297B5401-0041-486E-8C2F-0EF7942B8A9C}
+40,Hartsfield,Regional Center,Not an LCI Center,N/A,,,{7F409B20-3BB1-4374-9446-55F12824E9B5}
+41,Hapeville,Town Center,Hapeville,2001,,,{F936330E-999C-4E75-9699-70D8A1D7C84D}
+42,Conyers,Town Center,Conyers Act Cen,2000,,,{5DDBA691-AB81-4AF6-B954-EF982C3ED97E}
+43,Greenbriar,Regional Center,Greenbriar,2000,,,{200596E4-8C5C-4422-BA49-9D73B11A236A}
+44,East Point,Town Center,East Point,2004,,,{AD8C2561-2CA1-41CD-9E7A-B2086231734F}
+45,Stonecrest,Regional Center,Not an LCI Center,N/A,,,{0AF9E7E3-97B2-466A-B6AE-11F2A74FBE67}
+46,S. DeKalb Mall,Regional Center,Not an LCI Center,N/A,,,{7714C618-36CE-420A-B95F-F3DA014F1889}
+47,Lithonia,Town Center,Lithonia,2003,,,{7C0FE4B2-4882-44F0-B8F8-ED0A18AB025F}
+48,Arbor Place,Regional Center,Not an LCI Center,N/A,,,{7F19C11E-ED86-417D-B66F-876D3B1F26FC}
+49,West End,Town Center,West End,2000,,,{30488963-E91C-40B0-A668-09BAF1C0B88B}
+50,Memorial Drive,Regional Center,Memorial Drive,2003,,,{024989C4-F74E-4653-8A82-B8A9AD1C1093}
+51,H.E. Holmes,Station Community,"H.E. Holmes
+",2002,,,{5B3A2909-DB5A-4EC1-B51C-5031351E6FAB}
+52,City Center,City Center,City Center,2001,,,{3181475E-AFF0-4CA4-8B09-A6B8D7F52059}
+53,Douglasville,Town Center,Douglasville,2000,,,{77B10C04-B97A-437A-AD0E-65A12D8C9DCB}
+54,JSA-McGill,City Center,JSA-McGill,2003,,,{97C78078-EC1A-445F-B063-68BFDBB4B53F}
+55,Avondale Station,Station Community,"Avondale Station
+",2002,,,{33E34A4C-E5AA-429F-B043-13196A3D5405}
+56,Avondale Estates,Town Center,Not an LCI Center,N/A,,,{027466DF-9FBA-47C7-83BA-686F371EF5A3}
+57,Decatur,Town Center,Decatur,2000,,,{EAE9667A-92CB-469C-8BCE-E7EF41B74E92}
+58,Kensington Station,Station Community,"Kensington Station
+",2002,,,{F93098EE-C7A7-4B86-9988-BAD56F8FF4F8}
+59,Fulton Industrial,Regional Center,Sandtown FI,N/A,,,{B24DA0B5-5682-4293-83AA-5537183EF618}
+60,Pine Lake,Town Center,Not an LCI Center,N/A,,,{B1EDBED1-8E6F-43FD-A4CF-2AE5009D6BD5}
+61,Midtown,City Center,Midtown,2000,,,{FC79D37D-9AB5-4D46-AEE7-86270E7C6D74}
+62,Emory,Regional Center,Not an LCI Center,N/A,,,{C90BCA07-C594-4CE2-9ED8-7AA0B48E2843}
+63,Upper Westside,Town Center,Upper Westside,2004,,,{6B239EFF-AC56-437B-AE78-D3842ECE7277}
+64,Stone Mountain,Town Center,Stone Mountain,2003,,,{0C624FAA-9C92-4F47-96FB-32B0957A4C62}
+65,N. DeKalb Mall,Regional Center,Not an LCI Center,N/A,,,{B0C4E178-6F2C-4A5F-80AA-30FD1036AB16}
+66,Buckhead South,Regional Center,Not an LCI Center,N/A,,,{89B8A5E2-0EFA-4ADC-A5B6-7DD11C6BF6AF}
+67,Austell,Town Center,"Austell
+",2002,,,{73DEBF74-65A0-4D92-B5AA-5E3C5D93B407}
+68,Clarkston,Town Center,Clarkston,2004,,,{CA3A06FE-0A13-426B-BE0D-A48C11BF1040}
+69,Bolton/Moores Mill,Town Center,"Bolton/Moores Mill
+",2002,,,{CBB7AC1A-D3C1-429E-A613-96946DE6B746}
+70,Mableton,Town Center,Mableton,2002,,,{74AE20F0-1595-4287-903F-5EE55128C7A2}
+71,N.Druid Hills,Regional Center,Not an LCI Center,N/A,,,{279AE19E-F7D0-4CE8-B044-BAC2C09DEF33}
+72,Century Center,Regional Center,Not an LCI Center,N/A,,,{74F8E268-40EF-41A2-8DB1-08C38D2CEA43}
+73,Northlake,Regional Center,Northlake,2001,,,{2E905A1E-4131-4395-A51F-E2831A218230}
+74,Buckhead,Regional Center,Buckhead,2001,,,{B0B6A925-C045-41CA-AB0E-C7DDA136C98C}
+75,Mountain Industrial,Regional Center,Not an LCI Center,N/A,,,{3A2D6347-9A70-4650-BA94-67EAF121FC17}
+76,Snellville,Town Center,Snellville,2003,,,{5FF16BFB-B080-4BD9-856B-E4D50061B431}
+77,Powder Springs,Town Center,Powder Springs,2002,,,{D1EBCA86-049D-45F0-B4A7-F01DB51BA2A5}
+78,Hiram,Town Center,Not an LCI Center,N/A,,,{C14CF96F-9EAE-41C2-8D25-5C56D3649315}
+79,Chamblee,Town Center,Chamblee,2000,,,{D8153F76-6274-4259-964B-89E644ABC90C}
+80,Grayson,Town Center,Not an LCI Center,N/A,,,{14A42108-5F66-43A1-9CF1-B758720A204D}
+81,Hiram Crossroads,Regional Center,Not an LCI Center,N/A,,,{2004AE7C-4BC8-498A-AB2E-43A6481B3DDE}
+82,Cumberland,Regional Center,Cumberland,2001,,,{75B1F15E-6C9E-4C23-B6E3-7AC8F35A07AE}
+83,Lilburn,Town Center,Lilburn,2002,,,{F4215648-4706-4089-BAA3-FD012D578E5C}
+84,Doraville,Town Center,Not an LCI Center,N/A,,,{E49E071F-5467-4343-8A39-90B34ECBA149}
+85,Smyrna,Town Center,Smyrna,2003,,,{BABC6D1B-ECE9-41F8-8B43-BDD9BC4ECDA3}
+86,Doraville Ind. Dist,Regional Center,Not an LCI Center,N/A,,,{E2D54727-253C-4095-BF93-2EA7D4E3AB4D}
+87,Dallas,Town Center,Not an LCI Center,N/A,,,{B03CE842-E836-4337-BFC1-957000A8534D}
+88,Lockheed/ Dobbins,Regional Center,Not an LCI Center,N/A,,,{10F8993B-E7C1-44AC-8440-55529F12ABF7}
+89,Sandy Springs,Regional Center,Sandy Springs,2000,,,{B8EC44FC-5D69-4972-9AB7-6F9F5F410448}
+90,Delk Road,Regional Center,Delk Road TOD,2004,,,{E631990F-5FCE-4C37-A7F3-A8864D11E5FD}
+91,Perimeter,Regional Center,Perimeter,2001,,,{2243C9EA-D26C-4E5A-B14B-11254D89A193}
+92,Norcross,Town Center,Norcross,2001,,,{A995883C-5422-4502-A29C-7A290D362C3B}
+93,Lawrenceville,Town Center,Not an LCI Center,N/A,,,{7C2EC4FC-39D8-4722-A30C-F7819924E4AE}
+94,Marietta,Town Center,Marietta,2000,,,{D281AC4A-A15C-44B6-A643-A00CD9319090}
+95,Gwinnett Place,Regional Center,Gwinnett Place,2001,,,{24D0396D-3F72-4A57-8F26-2E1441AF822A}
+96,Berkeley Lake,Town Center,Not an LCI Center,N/A,,,{E0246FFC-EA5D-4D21-A8D4-5661391A4133}
+97,Peachtree Corners,Regional Center,Not an LCI Center,N/A,,,{993E3504-1B7D-40C9-BF0F-C30C79869F89}
+98,Dacula,Town Center,Not an LCI Center,N/A,,,{99669EA6-3111-4066-9C44-1092D090E737}
+99,Duluth,Town Center,Duluth,2000,,,{C72A89AA-2CDC-420D-8CC7-D9CA96330B9B}
+100,Gwinnett,Regional Center,Gwinnett,2001,,,{9F621D0D-CA02-41EF-9C1D-360EAFF87E2C}
+101,Kennesaw,Town Center,Kennesaw,2003,,,{8BF66459-56D0-4E57-B9F0-F4BC096CB31C}
+102,Roswell,Town Center,Roswell,2003,,,{96A16D53-B991-4254-A5FE-A9F31B5EED72}
+103,Town Center,Regional Center,Town Center,2004,,,{CC0CC67C-F2A4-4DFF-AEB7-A59C25495585}
+104,Auburn,Town Center,Not an LCI Center,N/A,,,{28917222-F3EB-4FA6-A70F-EB5B41F8061D}
+105,North Point,Regional Center,Not an LCI Center,N/A,,,{5783A165-A6A5-423B-A622-907A8995F8B2}
+106,Suwanee,Town Center,Suwanee,2001,,,{6409E1DE-C2A2-462D-94CF-9EA600BA72C4}
+107,Acworth,Town Center,Acworth,2001,,,{F643C02B-3CCE-4910-8945-54B8B4B809FA}
+108,Mall of Georgia,Regional Center,Not an LCI Center,N/A,,,{7A78E9E1-2EB7-4FF2-B678-6837D4B4B61E}
+109,Alpharetta,Town Center,Not an LCI Center,N/A,,,{FEED7141-1508-416E-B663-024239EA2E05}
+110,Mountain Park,Town Center,Not an LCI Center,N/A,,,{BB647C9F-465A-43D1-8FF5-59DB957553CA}
+111,Windward,Regional Center,Not an LCI Center,N/A,,,{61D01665-FF3A-40B9-A5FD-F78A3CE529FE}
+112,Woodstock,Town Center,"Woodstock
+",2002,,,{F267FED3-FD5A-4563-B5C4-59C59F3F5E7F}
+113,Sugar Hill,Town Center,Not an LCI Center,N/A,,,{1A9F413A-360C-4B54-818F-0BC9B318ECF5}
+114,Buford,Town Center,Buford,2004, ,,{EE0DBFFD-4624-458A-B092-696850EFC33C}
+115,Rest Haven,Town Center,Not an LCI Center,N/A,,,{4598005F-1ED1-4FC6-82D8-AD76C311403F}
+116,Holly Springs,Town Center,Holly Springs,2004,,,{EA5CC6B3-57D9-4A0F-8133-D5F82C15A5D8}
+117,Cumming,Town Center,Not an LCI Center,N/A,,,{5965E88B-B6F5-42D6-89B1-84603D485C19}
+118,Canton,Town Center,Canton,2000,,,{359104FB-F2AA-4ADD-9DC3-0A1D4B767FDB}
+119,Waleska,Town Center,Not an LCI Center,N/A,,,{AFC69A00-DD09-4B2B-8BE8-5C41127FA47B}
+120,Ball Ground,Town Center,Not an LCI Center,N/A,,,{3F6A40A7-F317-46C3-83E1-415A8EC0DDD3}
+121,Nelson,Town Center,Not an LCI Center,N/A,,,{184050F0-750B-4344-96B4-FBC025F04DCD}
+122,Inman Park Reynoldstown,Station Community,Not an LCI Center,N/A,,,{2A59AC6A-4875-4124-A6DA-FB58B5600377}
+123,Indian Creek,Station Community,Not an LCI Center,N/A,,,{030E25AB-FD1B-41CF-B349-5C34D1C16F48}
+124,Lakewood Ft McPherson,Station Community,Not an LCI Center,N/A,,,{3D9A7E4A-6B6B-4FD7-A830-DD50E4B3C273}
+125,Vine City,Station Community,Not an LCI Center,N/A,,,{BE90DAB9-4917-4D50-ABBF-91E557FF4230}
+126,Mount Zion,Town Center,Not an LCI Center,N/A,,,{33AD3F78-8FA3-4236-BF56-F285E317CF16}
+127,Carrolton,Town Center,Not an LCI Center,N/A,,,{8A1829F0-8C35-42CF-B296-250FA41A1937}
+128,Whitesburg,Town Center,Not an LCI Center,N/A,,,{65507468-B1DD-4348-B5DF-72F4DA33CCCE}
+129,Roopvile,Town Center,Not an LCI Center,N/A,,,{8F580409-36A9-44C3-8175-5C46AE08473C}
+130,Bowdon,Town Center,Not an LCI Center,N/A,,,{46728853-677B-4B3E-BC2E-F57C1EC876E0}
+131,Villa Rica,Town Center,Not an LCI Center,N/A,,,{93EC5492-00E9-4266-8408-AAFB665897FF}
+132,Temple,Town Center,Not an LCI Center,N/A,,,{7F1E24FE-316B-414E-BF87-BC6E8D2C6376}
+133,Orchard Hill,Town Center,Not an LCI Center,N/A,,,{24557825-A47F-408E-A16E-311F09E68F20}
+134,Griffin,Town Center,Not an LCI Center,N/A,,,{9C624673-86E7-40E2-8F34-B6A0A90FFDFF}
+135,Cartersville,Town Center,Not an LCI Center,N/A,,,{9942DB29-12E2-437E-B2C9-C77F511D0BD3}
+136,Adairsville,Town Center,Not an LCI Center,N/A,,,{EC306B04-6655-47BC-868C-20E73EA0AFBD}
+137,Gainesville,Town Center,Not an LCI Center,N/A,,,{EB5D79B1-C5C6-41EB-AC19-678021892676}
+138,Oxford,Town Center,Not an LCI Center,N/A,,,{521FFCF2-48AE-4C32-84CB-0CB89251BAB3}
+139,Newborn,Town Center,Not an LCI Center,N/A,,,{01132BCB-A96A-4AA8-A6B7-67C247B899D5}
+140,Mansfield,Town Center,Not an LCI Center,N/A,,,{C9E040BA-9DF0-4DB5-A919-5D18CC1E26B6}
+141,Social Circle,Town Center,Not an LCI Center,N/A,,,{B96A3E95-07E2-45D2-869C-770F0F81515C}
+142,Monroe,Town Center,Not an LCI Center,N/A,,,{EED59545-E01B-4FFB-AA20-D5E300A5FB44}
+143,Jersey,Town Center,Not an LCI Center,N/A,,,{11034B96-BD7A-4807-9DA7-1B81A85103AA}
+144,Loganville,Town Center,Not an LCI Center,N/A,,,{EAD11C39-E9FC-44D3-A677-FFC596C2F70E}
+145,Between,Town Center,Not an LCI Center,N/A,,,{A7F7F3D8-7EEB-4534-97CF-C1B46067B4D6}
+146,Statham,Town Center,Not an LCI Center,N/A,,,{AA81C891-644B-4B48-8811-D753D5422723}
+147,Bethlehem,Town Center,Not an LCI Center,N/A,,,{C2C073EE-EE4F-41AC-9CF5-AF1EE578AA69}
+148,Winder,Town Center,Not an LCI Center,N/A,,,{8D3C47A5-582C-4735-BE7C-F0B044FD9330}
+149,Carl,Town Center,Not an LCI Center,N/A,,,{035FC6B9-6B00-4A23-BB6D-03844922474C}
+150,Auburn,Town Center,Not an LCI Center,N/A,,,{DC777528-FE79-42A8-AFB1-1931B092711F}
+151,Braselton,Town Center,Not an LCI Center,N/A,,,{50799942-73F2-4D2A-833A-3366475DC093}
+152,Walnut Grove,Town Center,Not an LCI Center,N/A,,,{A34F91F9-4D41-42B6-8616-25E4C00278B0}
+153,Good Hope,Town Center,Not an LCI Center,N/A,,,{237B5729-A96E-421A-9D28-F87BAF216139}
+154,Kingston,Town Center,Not an LCI Center,N/A,,,{A52A2FC4-1851-4FD3-917F-6D65D06B07E4}
+155,Euharlee,Town Center,Not an LCI Center,N/A,,,{A02B3AD8-F72B-4B67-9A6D-99E7728AD869}
+156,Taylorsville,Town Center,Not an LCI Center,N/A,,,{374F2516-F86D-4227-B0B5-AADC1C88D403}
+157,Emerson,Town Center,Not an LCI Center,N/A,,,{44AFFDA1-908B-4DE5-9D09-972CA4087D4E}
+158,Lula,Town Center,Not an LCI Center,N/A,,,{989E33DE-5DDE-497F-89A4-137357EF3323}
+159,Gillsville,Town Center,Not an LCI Center,N/A,,,{D465C07A-55B0-44B5-9702-4B198528DC50}
+160,Atlantic Station,Regional Center,Not an LCI Center,N/A,,,{80A0CCAC-04D6-4133-8CFC-24CF66F929B0}
+161,Georgia Tech,Regional Center,Not an LCI Center,N/A,,,{4B5B1546-F2B4-4F24-9D97-FF66FD704063}
+162,Brasswell,Town Center,Not an LCI Center,N/A,,,{33375D5A-442D-413E-BC61-325B31B1D9B0}
+163,Fort Gillem,Regional Center,Not an LCI Center,N/A,,,{DB05BD8B-5E3C-447B-B560-81C4B77AB66A}
+164,Fort McPherson,Town Center,Not an LCI Center,N/A,,,{8D35B078-B4C9-4D14-A96E-57180021056F}
+165,Doraville,Town Center,Doraville,2005,,,{FD06852E-86FC-49AE-B2E4-F106C7E38F40}
+166,Tucker,Town Center,Tucker,2005,,,{E826D3DF-748F-4B2F-8F58-B537CAFC82D1}
+167,Hwy 78,Town Center, Hwy 78,2005,,,{64761C45-1E4B-4A51-99A6-52681A5808F4}
+168,Bankhead,Station Community,Bankhead,2005,,,{3B109460-67F5-403A-81DD-94D5C40C44E9}
+169,Brookhaven,Station Community,Brookhaven,2005,,,{74841A7F-C751-4DFA-9AE5-5A25ED86EB98}
+170,Bells Ferry,Town Center,Bells Ferry,2005,,,{B1974F2B-B0FA-4AAA-BDC8-51EDCE4D7AFD}
+171,McFarland,Town Center,McFarland,2005,,,{4DD42598-50D8-4D22-93D3-4AADD1DB127D}
+172,Hapeville,Town Center,Hapeville,2005,,,{A7876E9B-744D-4F19-B937-33E2F33561C2}
+173,Highway 278,Town Center,Highway 278 Covington-Newton,2005,,,{A764D491-3655-4585-99C0-C6DAAC7AC9F3}
+174,Porterdale,Town Center,Not an LCI Center,N/A,,,{485919D2-299D-47BC-B964-55BA40898CDF}
