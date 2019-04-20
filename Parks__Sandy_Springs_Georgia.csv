@@ -1,0 +1,34 @@
+﻿OBJECTID,ParkName,Amenities,Acres,Street_Number,Prefix,Street_Name,Street_Type,Suffix,City,ZipCode,Zip4,Address_Full,Owner,UpdatedBy,UpdatedDate,ShapeSTArea,ShapeSTLength
+1,Sandy Springs Historical Area (including Williams-Payne House),,5.206,6075,,Sandy Springs,Cir,,Sandy Springs,30328,,,Sandy Springs,jlontz,2009-04-27T11:10:05.000Z,226781.715087891,2599.20948642535
+2,Allen Road Park,,3.043,5900,,Lake Forrest,Dr,,Sandy Springs,30328,,,Sandy Springs,jlontz,2009-04-27T11:11:52.000Z,132550.870361328,1758.76561106774
+3,Big Trees Forest Preserve,,31.338,7645,,Roswell,Rd,,Sandy Springs,30350,,,Sandy Springs,szell,2010-07-27T07:39:43.000Z,1365094.10791016,5547.75199565338
+4,Hammond Park,,13.708,6005,,Glenridge,Dr,,Sandy Springs,30328,,,Sandy Springs,jlontz,2009-04-27T11:12:19.000Z,597121.580078125,3182.09693294992
+5,Grace Park,,0.455,4811,E,Conway,Dr,,Atlanta,30327,,,Sandy Springs,jlontz,2009-04-27T11:19:45.000Z,19840.8315429688,573.517069298521
+6,Sandy Springs Tennis Center,,27.663,500,,Abernathy,Rd,,Sandy Springs,30328,,,Sandy Springs,jlontz,2009-04-27T11:12:28.000Z,1204985.30493164,4638.49303425991
+7,Johnson Ferry Road North Greenspace,,4.134,595,,Johnson Ferry,Rd,,Sandy Springs,30328,,,Sandy Springs,jlontz,2011-02-03T11:39:32.000Z,180057.146240234,1668.96534699806
+8,Island Ferry Park,,10.465,8850,,Roberts,Dr,,Sandy Springs,30350,,,Sandy Springs,jlontz,2009-04-27T11:12:53.000Z,455846.997070312,3409.57259357989
+11,Island Ford Park NRA,,288.315,,,,,,Sandy Springs,,,,United States of America,jlontz,2009-04-27T11:10:39.000Z,12558964.5632324,23257.8703336736
+13,Abernathy Park,,3.679,254,,Johnson Ferry,Rd,,Sandy Springs,30328,,,Leased from Fulton County,jlontz,2011-02-03T11:39:32.000Z,160268.151123047,1630.45803884876
+15,Morgan Falls Overlook Park,,27.812,200,,Morgan Falls,Rd,,Sandy Springs,,,,Sandy Springs,jlontz,2009-08-27T12:51:25.000Z,1211488.0390625,5253.78836162256
+16,Ridgeview Park,,20.72,5200,S,Trimble,Rd,,Atlanta,30342,,,Sandy Springs,jlontz,2009-04-27T11:15:14.000Z,902579.496582031,5264.40108946959
+17,Morgan Falls Athletic Fields,,27.261,1914,,Morgan Falls,Pl,,Sandy Springs,30350,,,Leased from Fulton County,jlontz,2010-08-19T11:01:19.000Z,1187487.27783203,5183.49661295335
+19,Ed Morey Memorial Park,,0.133,640,,Spalding,Dr,,Sandy Springs,30350,,,Sandy Springs,jlontz,2009-04-27T11:13:40.000Z,5794.77197265625,314.370643447866
+21,Lost Corner Preserve,,21.957,99,,Dalrymple,Rd,,Sandy Springs,30350,,,Sandy Springs,jlontz,2010-01-12T15:44:00.000Z,956448.189453125,4462.69211544438
+422,Morgan Falls River Park/Dog Park,,3.422,,,,,,,,,,Georgia Power,jlontz,2010-01-12T15:44:02.000Z,149043.708740234,1879.89210101199
+423,East Palisades Park NRA,,348.257,,,,,,,,,,United States of America,GISAdmin,2008-07-18T10:33:55.000Z,15170015.9006348,21733.585397093
+425,Powers Island Park NRA,,82.413,,,,,,,,,,United States of America,GISAdmin,2008-07-18T10:33:55.000Z,3589879.91088867,13028.6421677498
+823,Holcomb Bridge NRA,,37.637,,,,,,,,,,United States of America,,,1600942.97290039,6530.8068321811
+826,Riverside Park,,24.778,,,,,,,,,,Proposed Park,,,1079319.4921875,4679.09389390827
+1624,Abernathy Greenway North, ,21.978,70, ,Abernathy,Rd, ,Sandy Springs,30328,0,,Sandy Springs,jlontz,2013-09-10T00:00:00.000Z,376385.770751953,5278.65421944057
+2024,Crooked Creek Park,,4.451,,,,,,Norcross,30092,,,JIM COWART LLC,,,193866.139160156,1784.65218999319
+2025,Eagle Park,,0.135,,,,,,Sandy Springs,30327,,,,,,5884.66845703125,300.344691739697
+2026,Windsor Meadows Park,,4.218,825,,Windsor,Pkwy,NE,Atlanta,30342,,,,crice,2015-09-15T11:20:00.000Z,183717.963134766,1738.77258075119
+2027,Powers Ferry Property,,7.613,,,,,,,,,,,,,331614.156982422,3001.87831370743
+2426,City Springs Park I,,,,,,,,,,,,,,,61927.8225097656,1363.17678072991
+2430,Kitty Hawk,,,,,,,,,,,,,,,118524.956298828,1923.59907557104
+2431,Marsh Creek,,,,,,,,,,,,,,,85010.0395507812,1493.2217671526
+2434,Abernathy Greenway South,,,,,,,,,,,,,,,217946.835693359,2013.17957137152
+2435,Abernathy Greenway South,,,,,,,,,,,,,,,277237.404785156,3210.70040503364
+2436,Abernathy Greenway South,,,,,,,,,,,,,,,86381.8935546875,1292.53690185888
+2827,Veterinary Space,,,,,,,,,,,,,,,172736.901611328,2450.79684034164
+2828,City Springs Park,,,1,,GALAMBOS,WAY,,,30328,,1 GALAMBOS WAY,,,,96076.0034179688,1248.04871673988
